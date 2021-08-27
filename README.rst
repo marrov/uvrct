@@ -1,7 +1,7 @@
 uvrct
 ======
 
-``uvrct`` is a python package for UV photolytic chemical reactor modelling.
+``uvrct`` is a python package for UV photochemical reactor modelling.
 
 Installation
 ------------
