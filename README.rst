@@ -3,6 +3,8 @@ uvrct
 
 ``uvrct`` is a python package for UV photochemical reactor modelling.
 
+Files included in this repository are made to a scientific computing standard. That is, not in line with software devlopment best practices. Hence, inter- and intra- file structure is a work in progress. 
+
 Installation
 ------------
 
